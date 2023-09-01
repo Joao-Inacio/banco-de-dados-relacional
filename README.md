@@ -46,6 +46,4 @@ Este projeto foi desenvolvido como parte dos requisitos da disciplina de "Banco 
 
 ## 📚 Referências
 
-- Silberschatz, A., Korth, H. F., & Sudarshan, S. (2010). *Sistema de banco de dados*. AMGH Editora.
-- Elmasri, R., & Navathe, S. B. (2011). *Fundamentals of database systems*. Pearson.
-
+...
