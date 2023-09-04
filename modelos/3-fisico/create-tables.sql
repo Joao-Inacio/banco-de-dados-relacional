@@ -1,10 +1,3 @@
-DROP DATABASE johns_enterprise_db;
-
-CREATE DATABASE johns_enterprise_db
-    DEFAULT CHARACTER SET = 'utf8mb4';
-
-USE johns_enterprise_db;
-
 -- Tabela pessoa
 CREATE TABLE IF NOT EXISTS pessoa (
     id_pessoa INT UNSIGNED PRIMARY KEY AUTO_INCREMENT,
